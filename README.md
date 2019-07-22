@@ -11,7 +11,7 @@ Note: I have a handful of additional projects which I will curate and add at a l
 
 #### **Contents:**
 - Implementation of Common Data Structures and Algorithms (available)
-- Etactics' Programming Interview Question (available)
+- Elactics' Programming Interview Question (available)
 - POS Terminal Project (incoming)
 
 #### **To Do List:**
