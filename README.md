@@ -4,7 +4,8 @@ JAVA Portfolio Examples
 #### **Overview:**
 This repository contains examples of my JAVA programming experience.
 It's comprised of course-work assignments, interview coding exercises, and personal projects.
-It only contains .java files, so you'll need to copy the files and build the project independently. 
+It only contains .java files, so you'll need to copy the files and build the projects independently. 
+Each folder represents a separate project, assignment, exercise, etc.
 
 Note: I have a handful of additional projects which I will curate and add at a later date.
 
